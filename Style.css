@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url(laut.jpg) no-repeat;
+  background-size: cover;
+}
+.box{
+  width: 800px;
+  height: 400px;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 50px;
+  text-align: center;
+  margin: auto;
+  margin-top: 10%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+  border-radius: 7%;
+}
+.box-img{
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 100;
+  color: white;
+}
+.box h5{
+  font-size: 25px;
+  letter-spacing: 5px;
+  font-weight: 50;
+  color: white;
+}
+.box p{
+  font-size: 30px;
+  text-align: center;
+}
+ul{
+  margin: ;
+  padding: ;
+  
+}
+.box li{
+  display: inline-block;
+  margin: 10px;
+  list-style: none;
+ 
+}
+.box li a{
+  color: black;
+  text-decoration: none;
+  font-size: 30px;
+  transition: all ease-in-out 100ms ;
+  
+}
+.box li a:hover{
+  color: #b9b9b9;
+  
+}
